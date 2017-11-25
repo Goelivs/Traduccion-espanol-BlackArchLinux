@@ -1,2 +1,2 @@
-# Traduccion-Guia espanol-BlackArchLinux
-Traduccion de la Guia al espanol Latino de BlackArchLinux 
+# Traduccion-Guia BlackArchLinux espanol Latino
+Traduccion de la Guia de BlackArchLinux al espanol Latino
